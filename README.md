@@ -1,9 +1,6 @@
 <h1 align="center">🌱 Hi! I'm Lüa</h1>
 <p align="center">Designer who also codes (and waters her plants with love) 💻🌿</p>
 
-<h1 align="center">🌱 Hi! I'm Lüa</h1>
-<p align="center">Designer who also codes (and waters her plants with love) 💻🌿</p>
-
 ---
 
 ### ✨ About me
