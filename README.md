@@ -1,5 +1,6 @@
-<img src="Lu.png" alt="Lüa" width="400" />
-
+<p align="left">
+  <img src="Lu.png" alt="Lüa" width="400" />
+</p>
 <p align="left">
   Welcome to my little corner of the internet where I <br>
   mix design, code, plants, and pixel dreams 🌿✨
