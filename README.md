@@ -25,10 +25,10 @@
 ### 🌐 Find me around the web
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lua-ackermann-18014a355/">
+  <a href="https://www.linkedin.com/in/lua-ackermann-18014a355/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portafolio-eight-topaz-17.vercel.app/">
+  <a href="https://portafolio-eight-topaz-17.vercel.app/"  target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
