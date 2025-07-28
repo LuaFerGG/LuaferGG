@@ -6,7 +6,7 @@
       mix design, code, plants, and pixel dreams 🌿✨</p>
     </td>
     <td style="border: none;" align="right" valign="top">
-      <img src="Lua.png" alt="Lüa" width="200" />
+      <img src="Lu.png" alt="Lüa" width="200" />
     </td>
   </tr>
 </table>
