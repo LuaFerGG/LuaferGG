@@ -4,6 +4,11 @@
   Welcome to my little corner of the internet where I <br>
   mix design, code, plants, and pixel dreams 🌿✨
 </p>
+
+<p align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNodW92ODV3cGRnaGw5aGdiazJuNTRpZW1wMmdvbTh1MGt2MGEzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sz5CtYwbIAdNfrtXcy/giphy.gif" alt="Lüa GIF" width="200"/>
+</p>
+
 ---
 
 ### 🎨 What I love doing
