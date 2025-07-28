@@ -1,7 +1,13 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="margin: 0;">🌼 Hey there, I'm Lüa!</h1>
-  <img src="Lu.png" alt="Lüa" width="120" />
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <h1>🌼 Hey there, I'm Lüa!</h1>
+    </td>
+    <td align="right">
+      <img src="Lu.png" alt="Lüa" width="200" />
+    </td>
+  </tr>
+</table>
 <p align="left">
   Welcome to my little corner of the internet where I <br>
   mix design, code, plants, and pixel dreams 🌿✨
