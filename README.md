@@ -1,6 +1,6 @@
-<h1 align="center">🌼 Hey there, I'm Lüa!</h1>
+<h1 align="left">🌼 Hey there, I'm Lüa!</h1>
 
-<p align="center">
+<p align="left">
   Welcome to my little corner of the internet where I <br>
   mix design, code, plants, and pixel dreams 🌿✨
 </p>
