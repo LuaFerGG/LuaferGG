@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 My GitHub Universe
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuaFer&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaFer&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 
 ### 📈 Contribution Graph
 
