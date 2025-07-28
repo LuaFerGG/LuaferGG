@@ -25,17 +25,15 @@
 ### 🌐 Find me around the web
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/lua-ackermann-18014a355/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portafolio-eight-topaz-17.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <!-- Agrega más si quieres: Behance, Instagram, etc. -->
+  <a href="https://www.linkedin.com/in/lua-ackermann-18014a355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portafolio-eight-topaz-17.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
----
 
 
-![En progreso](https://raw.githubusercontent.com/tu-usuario/tu-repo/main/ruta/de/tu-imagen.gif)
-
-
----
 
 > *“Make things with love and pixels — always 🌸”*
