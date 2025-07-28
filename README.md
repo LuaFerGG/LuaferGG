@@ -1,15 +1,5 @@
-<table style="border: none;">
-  <tr>
-    <td style="border: none; padding-right: 20px;" align="left" valign="top">
-      <h1 style="margin: 0;">🌼 Hey there, I'm Lüa!</h1>
-      <p style="margin: 0;">Welcome to my little corner of the internet where I<br>
-      mix design, code, plants, and pixel dreams 🌿✨</p>
-    </td>
-    <td style="border: none;" align="right" valign="top">
-      <img src="Lu.png" alt="Lüa" width="200" />
-    </td>
-  </tr>
-</table>
+<img src="Lu.png" alt="Lüa" width="400" />
+
 <p align="left">
   Welcome to my little corner of the internet where I <br>
   mix design, code, plants, and pixel dreams 🌿✨
