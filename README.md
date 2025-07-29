@@ -24,12 +24,12 @@
 
 ### 🌐 Find me around the web
 
-<p align="center">
+<p align="left">
   <a href="https://portafolio-eight-topaz-17.vercel.app/"  target="_blank">
-    <img src="image-2.gif" alt=portafolio height="52" />
+    <img src="image-2.gif" alt=portafolio widht="400" />
   </a>
   <a href="https://www.linkedin.com/in/lua-ackermann-18014a355/"  target="_blank">
-    <img src="In.gif" alt=LinkedIn height="52"  />
+    <img src="In.gif" alt=LinkedIn widht="400"  />
   </a>
 </p>
 
